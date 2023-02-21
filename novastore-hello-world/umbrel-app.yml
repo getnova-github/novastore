@@ -1,30 +1,28 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
-category: Development
-version: "1.0.0"
-port: 4000
+id: novastore-hello-world
+name: Mac OS
+tagline: Mac OS vm via Docker OS-X
+icon: https://www.macaid.com.au/wp-content/uploads/2020/11/600px-Finder_Icon_macOS_Big_Sur-540x540.png
+category: OS
+version: "0.1.0"
+port: 4001
 description: >-
-  Add your app's description here.
+  A simple way to run Mac OS in Umbrel via Docker
+  Powered by Docker OS-X!
 
-
-  You can also add newlines!
-
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+developer: Sickcodes|Ported to Umbrel by Novastore
+website: https://github.com/getnova-github/novastore/
+submitter: Novastore
+submission: https://github.com/getnova-github/novastore/
+repo: https://github.com/getnova-github/novastore/
+support: https://github.com/getnova-github/novastore//issues
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://raw.githubusercontent.com/sickcodes/Docker-OSX/master/running-mac-inside-docker-qemu.png
   - https://i.imgur.com/yyVG0Jb.jpeg
   - https://i.imgur.com/yyVG0Jb.jpeg
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+  First attempt.
 dependencies: []
 path: ""
-defaultUsername: ""
-defaultPassword: ""
+defaultUsername: "Umbrel"
+defaultPassword: "OSX"
