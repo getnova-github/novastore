@@ -18,8 +18,6 @@ repo: https://github.com/getnova-github/novastore/
 support: https://github.com/getnova-github/novastore//issues
 gallery:
   - https://raw.githubusercontent.com/sickcodes/Docker-OSX/master/running-mac-inside-docker-qemu.png
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
 releaseNotes: >-
   First attempt.
 dependencies: []
