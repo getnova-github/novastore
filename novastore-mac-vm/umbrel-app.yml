@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: novastore-hello-world
+id: novastore-mac-vm
 name: Mac OS
 tagline: Mac OS vm via Docker OS-X
 icon: https://www.macaid.com.au/wp-content/uploads/2020/11/600px-Finder_Icon_macOS_Big_Sur-540x540.png
