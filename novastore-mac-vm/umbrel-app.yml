@@ -5,7 +5,7 @@ tagline: Mac OS vm via Docker OS-X
 icon: https://www.macaid.com.au/wp-content/uploads/2020/11/600px-Finder_Icon_macOS_Big_Sur-540x540.png
 category: OS
 version: "0.1.0"
-port: 4001
+port: 4000
 description: >-
   A simple way to run Mac OS in Umbrel via Docker
   Powered by Docker OS-X!
